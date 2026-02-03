@@ -48,6 +48,8 @@ const larissa = {
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines=Oi%2C+eu+sou+a+Larissa!;Front-end+%7C+QA+%7C+Python+%7C+SQL" />
+
 
 
 
