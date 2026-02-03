@@ -14,8 +14,6 @@ const larissa = {
 }
 ```
 <div align="center">
-  <img align="right" alt="Lari-gif" src="[https://cdn.discordapp.com/attachments/79535891417397249/825430589581688872/hi.gif](https://discord.com/channels/@me/1330226506089369680/1441856062276763698)">
-  &nbsp;&nbsp;
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
   <img alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
