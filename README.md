@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines=Oi%2C+eu+sou+a+Larissa!;Front-end+%7CPython" /> 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines=Oi%2C+eu+sou+a+Larissa!;Front-end+%7CPython" />
 
 Front-end developer focado em **Angular** e **TypeScript**  
 Estudando **JavaScript**, **Vue** e **React**  
@@ -49,8 +49,9 @@ const larissa = {
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Larinsanaa/Larinsanaa/output/github-contribution-grid-snake.svg)
-<div align="center">
+
+
+
 
 
 
