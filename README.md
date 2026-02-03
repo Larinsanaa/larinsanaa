@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="imagens/200w.gif" width="200" />
-</p>
-
 # Hi, I'm Larissa 👋
 
 Front-end developer focado em **Angular** e **TypeScript**  
